@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there!
 
-<!--
-**AmamiyaMion/AmamiyaMion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Amamiya Mion** (雨宮 澪音 / あまみや みおん).
+- 🌐 I speak Mandarin Chinese and English. 
+- 🎓 I'm 16 y.o. and am in high school.
+- 🏳️‍⚧️ Trans girl. She / her or they / them.
+- 🐧 Linux enthusiast. Currently using Fedora & Debian and contributing to AOSC OS Community.
+- 🔐 PGP ID: `6EE87DEA5F99045A169D2D28A1239F47DB25106E`
+- 🐱 Maybe a cat (?
+- 📢 Not good at communicating.
 
-Here are some ideas to get you started:
+## Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Amamiya Mion's skills](https://skillicons.dev/icons?i=linux,arch,debian,redhat,cpp,python,lua,rust,md,raspberrypi,arduino,vscode&theme=dark)](https://skillicons.dev)
+
+## Learning: 
+[![Amamiya Mion's learning skills](https://skillicons.dev/icons?i=go,qt,bash,zig,emacs,vim&theme=dark)](https://skillicons.dev)
+
+## Stats:
+
+[![AmamiyaMion's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmamiyaMion&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
