@@ -11,7 +11,7 @@ I'm **Amamiya Mion** (雨宮 澪音 / あまみや みおん).
 
 ## Skills:
 
-[![Amamiya Mion's skills](https://skillicons.dev/icons?i=linux,arch,debian,redhat,cpp,python,lua,rust,md,raspberrypi,arduino,vscode&theme=dark)](https://skillicons.dev)
+[![Amamiya Mion's skills](https://skillicons.dev/icons?i=linux,arch,debian,redhat,cpp,python,lua,rust,nix,md,raspberrypi,arduino,vscode&theme=dark)](https://skillicons.dev)
 
 ## Learning: 
 [![Amamiya Mion's learning skills](https://skillicons.dev/icons?i=go,qt,bash,zig,emacs,vim&theme=dark)](https://skillicons.dev)
