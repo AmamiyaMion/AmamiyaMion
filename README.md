@@ -5,7 +5,7 @@ I'm **Amamiya Mion** (雨宮 澪音 / あまみや みおん).
 - 🎓 I'm 16 y.o. and am in high school.
 - 🏳️‍⚧️ Trans girl. She / her or they / them.
 - 🐧 Linux enthusiast. Currently using NixOS and contributing to AOSC OS Community.
-- 🔐 PGP ID: `6EE87DEA5F99045A169D2D28A1239F47DB25106E`
+- 🔐 PGP ID: `31829672594B6DD8`
 - 🐱 Maybe a cat (?
 - 📢 Not good at communicating.
 
